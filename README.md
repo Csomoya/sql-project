@@ -1,8 +1,9 @@
 # sql-project
-1. This project is my Vulnerability Management SQL Project
+1. This project is called VulnSentry: Crowdstrike Vulnerability Management
+
 
 2. 
-  a. The issue I plan to solve through this project is vulnerability management
+  a. I plan to solve the issue of useless advisories on XDR's with analytics that are actually insightful and actionable.
 
   b. I am solving this problem through building a data pipeline to help companies know of important vulnerabilities in the products they use
 
