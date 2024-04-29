@@ -1,0 +1,99 @@
+title,cve,description,threats,fixed_build
+Chromium: CVE-2024-2400 Use after free in Performance Manager,CVE-2024-2400,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.2365.92
+Chromium: CVE-2024-2883 Use after free in ANGLE,CVE-2024-2883,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.6261.148
+Chromium: CVE-2024-2885 Use after free in Dawn,CVE-2024-2885,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.6261.148
+Chromium: CVE-2024-2886 Use after free in WebCodecs,CVE-2024-2886,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.6261.148
+Chromium: CVE-2024-2887 Type Confusion in WebAssembly,CVE-2024-2887,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.6261.148
+Microsoft Defender Security Feature Bypass Vulnerability,CVE-2024-20671,Description not available,Security Feature Bypass,4.18.24010.12
+.NET and Visual Studio Denial of Service Vulnerability,CVE-2024-21392,Description not available,Denial of Service,17.9.3
+Skype for Consumer Remote Code Execution Vulnerability,CVE-2024-21411,Description not available,Remote Code Execution,8.113
+Software for Open Networking in the Cloud (SONiC) Elevation of Privilege Vulnerability,CVE-2024-21418,Description not available,Elevation of Privilege,20220531.26
+Azure SDK Spoofing Vulnerability,CVE-2024-21421,Description not available,Spoofing,1.29.5
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2024-21426,Description not available,Remote Code Execution,16.0.5439.1000
+Windows USB Hub Driver Remote Code Execution Vulnerability,CVE-2024-21429,Description not available,Remote Code Execution,10.0.17763.5576
+Windows USB Attached SCSI (UAS) Protocol Remote Code Execution Vulnerability,CVE-2024-21430,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft AllJoyn API Denial of Service Vulnerability,CVE-2024-21438,Description not available,Denial of Service,10.0.17763.5576
+Windows Telephony Server Elevation of Privilege Vulnerability,CVE-2024-21439,Description not available,Elevation of Privilege,10.0.17763.5576
+Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability,CVE-2024-21441,Description not available,Remote Code Execution,10.0.17763.5576
+Windows USB Print Driver Elevation of Privilege Vulnerability,CVE-2024-21442,Description not available,Elevation of Privilege,10.0.20348.2340
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2024-21443,Description not available,Elevation of Privilege,10.0.17763.5576
+Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability,CVE-2024-21444,Description not available,Remote Code Execution,10.0.17763.5576
+Windows USB Print Driver Elevation of Privilege Vulnerability,CVE-2024-21445,Description not available,Elevation of Privilege,10.0.20348.2340
+NTFS Elevation of Privilege Vulnerability,CVE-2024-21446,Description not available,Elevation of Privilege,10.0.17763.5576
+Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability,CVE-2024-21450,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft ODBC Driver Remote Code Execution Vulnerability,CVE-2024-21451,Description not available,Remote Code Execution,10.0.17763.5576
+Windows Standards-Based Storage Management Service Denial of Service Vulnerability,CVE-2024-26197,Description not available,Denial of Service,10.0.17763.5576
+Microsoft ODBC Driver Remote Code Execution Vulnerability,CVE-2024-26159,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft QUIC Denial of Service Vulnerability,CVE-2024-26190,Description not available,Denial of Service,17.9.3
+Microsoft Exchange Server Remote Code Execution Vulnerability,CVE-2024-26198,Description not available,Remote Code Execution,15.02.1258.034
+Microsoft Office Elevation of Privilege Vulnerability,CVE-2024-26199,Description not available,Elevation of Privilege,https://aka.ms/OfficeSecurityReleases
+Microsoft Intune Linux Agent Elevation of Privilege Vulnerability,CVE-2024-26201,Description not available,Elevation of Privilege,1.2402.12
+Azure Data Studio Elevation of Privilege Vulnerability,CVE-2024-26203,Description not available,Elevation of Privilege,1.48.0
+Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability,CVE-2024-26161,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft Django Backend for SQL Server Remote Code Execution Vulnerability,CVE-2024-26164,Description not available,Remote Code Execution,1.4.1
+Xbox Gaming Services Elevation of Privilege Vulnerability,CVE-2024-28916,Description not available,Elevation of Privilege,19.87.13001.0
+Open Management Infrastructure (OMI) Elevation of Privilege Vulnerability,CVE-2024-21330,Description not available,Elevation of Privilege,10.19.1253.0
+Open Management Infrastructure (OMI) Remote Code Execution Vulnerability,CVE-2024-21334,Description not available,Remote Code Execution,10.19.1253.0
+Microsoft Authenticator Elevation of Privilege Vulnerability,CVE-2024-21390,Description not available,Elevation of Privilege,6.2401.0617
+Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability,CVE-2024-21400,Description not available,Elevation of Privilege,0.3.3
+Windows Hyper-V Remote Code Execution Vulnerability,CVE-2024-21407,Description not available,Remote Code Execution,10.0.17763.5576
+Windows Hyper-V Denial of Service Vulnerability,CVE-2024-21408,Description not available,Denial of Service,10.0.17763.5576
+Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability,CVE-2024-21419,Description not available,Spoofing,9.1.26
+Windows Kerberos Security Feature Bypass Vulnerability,CVE-2024-21427,Description not available,Security Feature Bypass,10.0.17763.5696
+Hypervisor-Protected Code Integrity (HVCI) Security Feature Bypass Vulnerability,CVE-2024-21431,Description not available,Security Feature Bypass,10.0.20348.2340
+Windows Update Stack Elevation of Privilege Vulnerability,CVE-2024-21432,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Print Spooler Elevation of Privilege Vulnerability,CVE-2024-21433,Description not available,Elevation of Privilege,10.0.17763.5576
+Microsoft Windows SCSI Class System File Elevation of Privilege Vulnerability,CVE-2024-21434,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows OLE Remote Code Execution Vulnerability,CVE-2024-21435,Description not available,Remote Code Execution,10.0.22621.3296
+Windows Installer Elevation of Privilege Vulnerability,CVE-2024-21436,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Graphics Component Elevation of Privilege Vulnerability,CVE-2024-21437,Description not available,Elevation of Privilege,10.0.17763.5576
+Microsoft ODBC Driver Remote Code Execution Vulnerability,CVE-2024-21440,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft Teams for Android Information Disclosure Vulnerability,CVE-2024-21448,Description not available,Information Disclosure,1.0.0.2024022302
+Windows Cloud Files Mini Filter Driver Information Disclosure Vulnerability,CVE-2024-26160,Description not available,Information Disclosure,10.0.22621.3296
+Microsoft ODBC Driver Remote Code Execution Vulnerability,CVE-2024-26162,Description not available,Remote Code Execution,10.0.17763.5576
+Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability,CVE-2024-26166,Description not available,Remote Code Execution,10.0.17763.5576
+Windows Error Reporting Service Elevation of Privilege Vulnerability,CVE-2024-26169,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Composite Image File System (CimFS) Elevation of Privilege Vulnerability,CVE-2024-26170,Description not available,Elevation of Privilege,10.0.20348.2340
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2024-26173,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Kernel Information Disclosure Vulnerability,CVE-2024-26174,Description not available,Information Disclosure,10.0.17763.5576
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2024-26176,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Kernel Information Disclosure Vulnerability,CVE-2024-26177,Description not available,Information Disclosure,10.0.17763.5576
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2024-26178,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Kernel Denial of Service Vulnerability,CVE-2024-26181,Description not available,Denial of Service,10.0.17763.5576
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2024-26182,Description not available,Elevation of Privilege,10.0.17763.5576
+Windows Compressed Folder Tampering Vulnerability,CVE-2024-26185,Description not available,Tampering,10.0.22621.3296
+Intel: CVE-2023-28746 Register File Data Sampling (RFDS),CVE-2023-28746,"<p>This CVE was assigned by Intel.  Please see <a href=""https://www.cve.org/CVERecord?id=CVE-2023-28746"">CVE-2023-28746</a> on CVE.org for more information.</p>
+",Information Disclosure,10.0.17763.5576
+Outlook for Android Information Disclosure Vulnerability,CVE-2024-26204,Description not available,Information Disclosure,4.2404.0
+Visual Studio Code Elevation of Privilege Vulnerability,CVE-2024-26165,Description not available,Elevation of Privilege,1.87.2
+Microsoft Edge for Android Spoofing Vulnerability,CVE-2024-26167,Description not available,Spoofing,122.0.2365.92
+Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability,CVE-2024-26163,Description not available,Security Feature Bypass,122.0.2365.92
+Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability,CVE-2024-26246,Description not available,Security Feature Bypass,122.0.2365.92
+Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability,CVE-2024-26247,Description not available,Security Feature Bypass,123.0.2420.53
+Microsoft Edge (Chromium-based) Spoofing Vulnerability,CVE-2024-29057,Description not available,Spoofing,123.0.2420.53
+.NET Framework Information Disclosure Vulnerability,CVE-2024-29059,Description not available,Information Disclosure,4.8.4682.0
+Chromium: CVE-2024-2173 Out of bounds memory access in V8,CVE-2024-2173,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.2365.80
+Chromium: CVE-2024-2174 Inappropriate implementation in V8,CVE-2024-2174,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.2365.80
+Chromium: CVE-2024-2176 Use after free in FedCM,CVE-2024-2176,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,122.0.2365.80
+Chromium: CVE-2024-2625 Object lifecycle issue in V8,CVE-2024-2625,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2626 Out of bounds read in Swiftshader,CVE-2024-2626,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2627 Use after free in Canvas,CVE-2024-2627,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2628 Inappropriate implementation in Downloads,CVE-2024-2628,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2629 Incorrect security UI in iOS,CVE-2024-2629,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2630 Inappropriate implementation in iOS,CVE-2024-2630,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53
+Chromium: CVE-2024-2631 Inappropriate implementation in iOS,CVE-2024-2631,"<p>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see <a href=""https://chromereleases.googleblog.com/2024"">Google Chrome Releases</a> for more information.</p>
+",N/A,123.0.2420.53

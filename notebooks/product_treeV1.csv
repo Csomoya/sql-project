@@ -1,0 +1,142 @@
+category,product_id,product_name
+Azure,12308,Azure Migrate
+Azure,12304,Azure Compute Gallery
+Azure,12318,Azure AI Search
+Azure,12330,Azure Private 5G Core
+Azure,12288,Azure Kubernetes Service Confidential Containers
+Azure,12329,Azure Arc Cluster microsoft.openservicemesh Extension
+Azure,12327,Azure Arc Cluster microsoft.azure.hybridnetwork Extension
+Azure,12325,Azure Arc Cluster microsoft.iotoperations.mq Extension
+Azure,12324,Azure Arc Cluster microsoft.networkfabricserviceextension Extension
+Azure,12328,Azure Arc Cluster microsoft.azstackhci.operator Extension
+Azure,12323,Azure Arc Cluster microsoft.videoindexer Extension
+Azure,12326,Azure Arc Cluster microsoft.azurekeyvaultsecretsprovider Extension
+Azure,12331,Azure Monitor Agent
+Azure,12334,Azure Identity Library for .NET
+Azure,12333,Azure CycleCloud 8.6.0
+ESU,10378,Windows Server 2012
+ESU,10379,Windows Server 2012 (Server Core installation)
+ESU,10483,Windows Server 2012 R2
+ESU,10543,Windows Server 2012 R2 (Server Core installation)
+ESU,9312,Windows Server 2008 for 32-bit Systems Service Pack 2
+ESU,10287,Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)
+ESU,9318,Windows Server 2008 for x64-based Systems Service Pack 2
+ESU,9344,Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)
+ESU,10051,Windows Server 2008 R2 for x64-based Systems Service Pack 1
+ESU,10049,Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)
+Windows,11568,Windows 10 Version 1809 for 32-bit Systems
+Windows,11569,Windows 10 Version 1809 for x64-based Systems
+Windows,11570,Windows 10 Version 1809 for ARM64-based Systems
+Windows,11571,Windows Server 2019
+Windows,11572,Windows Server 2019 (Server Core installation)
+Windows,11923,Windows Server 2022
+Windows,11924,Windows Server 2022 (Server Core installation)
+Windows,11926,Windows 11 version 21H2 for x64-based Systems
+Windows,11927,Windows 11 version 21H2 for ARM64-based Systems
+Windows,11929,Windows 10 Version 21H2 for 32-bit Systems
+Windows,11930,Windows 10 Version 21H2 for ARM64-based Systems
+Windows,11931,Windows 10 Version 21H2 for x64-based Systems
+Windows,12085,Windows 11 Version 22H2 for ARM64-based Systems
+Windows,12086,Windows 11 Version 22H2 for x64-based Systems
+Windows,12097,Windows 10 Version 22H2 for x64-based Systems
+Windows,12098,Windows 10 Version 22H2 for ARM64-based Systems
+Windows,12099,Windows 10 Version 22H2 for 32-bit Systems
+Windows,12242,Windows 11 Version 23H2 for ARM64-based Systems
+Windows,12243,Windows 11 Version 23H2 for x64-based Systems
+Windows,12244,"Windows Server 2022, 23H2 Edition (Server Core installation)"
+Windows,10729,Windows 10 for 32-bit Systems
+Windows,10735,Windows 10 for x64-based Systems
+Windows,10852,Windows 10 Version 1607 for 32-bit Systems
+Windows,10853,Windows 10 Version 1607 for x64-based Systems
+Windows,10816,Windows Server 2016
+Windows,10855,Windows Server 2016 (Server Core installation)
+Developer Tools,12309,Microsoft Visual Studio 2022 version 17.9
+Developer Tools,12129,Microsoft Visual Studio 2022 version 17.4
+Developer Tools,12187,Microsoft Visual Studio 2022 version 17.6
+Developer Tools,12271,Microsoft Visual Studio 2022 version 17.8
+Developer Tools,12131,PowerShell 7.3
+Developer Tools,12262,PowerShell 7.4
+Developer Tools,11970,PowerShell 7.2
+Developer Tools,12009,.NET 6.0
+Developer Tools,12130,.NET 7.0
+Developer Tools,12260,.NET 8.0
+Developer Tools,11650-10051,Microsoft .NET Framework 4.8 on Windows Server 2008 R2 for x64-based Systems Service Pack 1
+Developer Tools,11650-10049,Microsoft .NET Framework 4.8 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)
+Developer Tools,11650-10378,Microsoft .NET Framework 4.8 on Windows Server 2012
+Developer Tools,11650-10379,Microsoft .NET Framework 4.8 on Windows Server 2012 (Server Core installation)
+Developer Tools,11650-10483,Microsoft .NET Framework 4.8 on Windows Server 2012 R2
+Developer Tools,11650-10543,Microsoft .NET Framework 4.8 on Windows Server 2012 R2 (Server Core installation)
+Developer Tools,11676-11568,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1809 for 32-bit Systems
+Developer Tools,11676-11569,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1809 for x64-based Systems
+Developer Tools,11676-11571,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2019
+Developer Tools,11676-11572,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2019 (Server Core installation)
+Developer Tools,11676-11923,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2022
+Developer Tools,11676-11924,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2022 (Server Core installation)
+Developer Tools,11676-11926,Microsoft .NET Framework 3.5 AND 4.8 on Windows 11 version 21H2 for x64-based Systems
+Developer Tools,11676-11927,Microsoft .NET Framework 3.5 AND 4.8 on Windows 11 version 21H2 for ARM64-based Systems
+Developer Tools,11676-11929,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for 32-bit Systems
+Developer Tools,11676-11930,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for ARM64-based Systems
+Developer Tools,11676-11931,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for x64-based Systems
+Developer Tools,11676-12097,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 22H2 for x64-based Systems
+Developer Tools,11676-12098,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 22H2 for ARM64-based Systems
+Developer Tools,11676-12099,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 22H2 for 32-bit Systems
+Developer Tools,11676-10852,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1607 for 32-bit Systems
+Developer Tools,11676-10853,Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1607 for x64-based Systems
+Developer Tools,11676-10816,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2016
+Developer Tools,11676-10855,Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2016 (Server Core installation)
+Developer Tools,11677-11568,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1809 for 32-bit Systems
+Developer Tools,11677-11569,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1809 for x64-based Systems
+Developer Tools,11677-11570,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1809 for ARM64-based Systems
+Developer Tools,11677-11571,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows Server 2019
+Developer Tools,11677-11572,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows Server 2019 (Server Core installation)
+Developer Tools,11677-10852,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1607 for 32-bit Systems
+Developer Tools,11677-10853,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1607 for x64-based Systems
+Developer Tools,11677-10816,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows Server 2016
+Developer Tools,11677-10855,Microsoft .NET Framework 3.5 AND 4.7.2 on Windows Server 2016 (Server Core installation)
+Developer Tools,11863-10051,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1
+Developer Tools,11863-10049,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)
+Developer Tools,11863-10378,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012
+Developer Tools,11863-10379,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012 (Server Core installation)
+Developer Tools,11863-10483,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012 R2
+Developer Tools,11863-10543,Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2012 R2 (Server Core installation)
+Developer Tools,12079-11923,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows Server 2022
+Developer Tools,12079-11924,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows Server 2022 (Server Core installation)
+Developer Tools,12079-11926,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 version 21H2 for x64-based Systems
+Developer Tools,12079-11927,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 version 21H2 for ARM64-based Systems
+Developer Tools,12079-11929,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 21H2 for 32-bit Systems
+Developer Tools,12079-11930,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 21H2 for ARM64-based Systems
+Developer Tools,12079-11931,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 21H2 for x64-based Systems
+Developer Tools,12079-12085,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for ARM64-based Systems
+Developer Tools,12079-12086,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 22H2 for x64-based Systems
+Developer Tools,12079-12097,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 22H2 for x64-based Systems
+Developer Tools,12079-12098,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 22H2 for ARM64-based Systems
+Developer Tools,12079-12099,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 10 Version 22H2 for 32-bit Systems
+Developer Tools,12115-9312,Microsoft .NET Framework 4.6.2 on Windows Server 2008 for 32-bit Systems Service Pack 2
+Developer Tools,12115-10287,Microsoft .NET Framework 4.6.2 on Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)
+Developer Tools,12115-9318,Microsoft .NET Framework 4.6.2 on Windows Server 2008 for x64-based Systems Service Pack 2
+Developer Tools,12115-9344,Microsoft .NET Framework 4.6.2 on Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)
+Developer Tools,12079-12242,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 23H2 for ARM64-based Systems
+Developer Tools,12079-12243,Microsoft .NET Framework 3.5 AND 4.8.1 on Windows 11 Version 23H2 for x64-based Systems
+Developer Tools,11935,Microsoft Visual Studio 2019 version 16.11 (includes 16.0 - 16.10)
+SQL Server,12320,Microsoft SQL Server 2022 for x64-based Systems (CU 12)
+SQL Server,12319,Microsoft SQL Server 2019 for x64-based Systems (CU 25)
+SQL Server,11821,Microsoft SQL Server 2019 for x64-based Systems (GDR)
+SQL Server,12147,Microsoft SQL Server 2022 for x64-based Systems (GDR)
+SQL Server,12180,Microsoft OLE DB Driver 19 for SQL Server
+SQL Server,12181,Microsoft OLE DB Driver 18 for SQL Server
+SQL Server,12193,Microsoft ODBC Driver 17 for SQL Server on Windows
+SQL Server,12194,Microsoft ODBC Driver 17 for SQL Server on Linux
+SQL Server,12195,Microsoft ODBC Driver 17 for SQL Server on MacOS
+SQL Server,12196,Microsoft ODBC Driver 18 for SQL Server on Windows
+SQL Server,12197,Microsoft ODBC Driver 18 for SQL Server on Linux
+SQL Server,12198,Microsoft ODBC Driver 18 for SQL Server on MacOS
+Browser,11655,Microsoft Edge (Chromium-based)
+Browser,12142,Microsoft Edge (Chromium-based) Extended Stable
+System Center,11967,Microsoft Defender for IoT
+Microsoft Office,11585,Microsoft SharePoint Server 2019
+Microsoft Office,11961,Microsoft SharePoint Server Subscription Edition
+Microsoft Office,10917,Microsoft SharePoint Server 2016
+Microsoft Office,11762,Microsoft 365 Apps for Enterprise for 32-bit Systems
+Microsoft Office,11763,Microsoft 365 Apps for Enterprise for 64-bit Systems
+Microsoft Office,11951,Microsoft Office LTSC for Mac 2021
+Other,12332,Outlook for Windows
