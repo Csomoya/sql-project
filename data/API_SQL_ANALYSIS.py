@@ -57,7 +57,7 @@ df2
 
 # %% [markdown]
 # Insight: The two highest are Priveledge Escalation and Remote Code Execution
-# Reccomendation: Reccomend that customers enable stricter policies when using microsoft products. Sell cloudflare security solutions to supplement defender
+# Reccomendation: Reccomend that customers enable stricter IAM policies when using microsoft products. Least Priviledge Principle.
 # Prediction: Microsoft stays on top of threats. Customers have lower likelihood of being compromised VIA these methods.
 
 
