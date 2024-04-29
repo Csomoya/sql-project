@@ -55,9 +55,9 @@ df2 = pd.read_sql(query2, raw_engine)
 df2
 
 # %% [markdown]
-# Insight: Atlassian has the most ransomware CVE's.
-# Reccomendation: Review atlassian security policies. Make reccomendation to customers on atlassian based on said policies.
-# Prediction: Customers will have less ransomware attacks/ Atlassian fixes security policies.
+# Insight: Atlassian has the most ransomware CVE's, although being on this list says enough.
+# Reccomendation: Put all vendors on an advisory list. Create alerts for said list for new patches. Add/Drop vendors from list.
+# Prediction: Customers will be safer from ransomware. Companies on watch list can meet security objectives in order to get off.
 
 # %%
 
