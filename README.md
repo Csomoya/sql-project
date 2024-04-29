@@ -6,7 +6,7 @@
 
   b. I am solving this problem through building a data pipeline to help companies know of important vulnerabilities in the products they use
 
-4.
+3.
   a. The way this idea came up was through my job. I work as an information security analyst, and this was a project suggested to me by my boss.
       Rather than do this manually, I thought it would be really cool to automate the process. Most XDR's have an advisory page, but they're not that
       detailed or great. Additionally, this was a great way to fuse two interests of mine, data engineering and cybersecurity. When I found the job posting
@@ -15,14 +15,14 @@
   b. This project ties into the posting in two ways. First, the posting requres SQL and Python experience. Second, the posting talks about how part of the job
       is making insights for business leaders.
 
-6. 
+4. 
   a. I have two data sources. One is the Microsoft Security Response Center Advisories, and one is the CISA CVE list.
 
   b. The MSRC data is my API data. One pro of this API is that it doesn't require any authentication to use. However, there is one huge con.
      There is little to no documentaion for this api. Any information I found on it was through some really deep internet investigation.
      The CISA data was different. Tons of documention on the page. However, accessing elements on the page was difficult. Many elements I needed were nested deep in the HTML.
 
-8. 
+5. 
    a. [API_ETL.ipynb](https://github.com/Csomoya/sql-project/blob/main/notebooks/API_ETL.ipynb) This notebook is my API ETL. It's what I used to get api data.
    
    b. https://github.com/Csomoya/sql-project/blob/main/notebooks/Web_Scrape_ETL.ipynb This is what I used to scrape  the CISA page.
@@ -35,7 +35,7 @@
    
    f. https://github.com/Csomoya/sql-project/blob/main/notebooks/WEB_SCRAPE_SQL_ANALYSIS.py This is my API query for the web scrape.
 
-10.
+6.
   a. The first improvement I would like is for the API to be fully automated. The way I got data was from a release where I had to physically query 2024-apr inside the url for
       it to work. I could probably find a way to do this, I just need more time.
    
