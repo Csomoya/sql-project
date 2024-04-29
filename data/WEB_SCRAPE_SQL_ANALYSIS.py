@@ -30,7 +30,7 @@ raw_engine = create_engine(f"mysql+mysqldb://{raw_db_config['username']}:{raw_db
 query1 = "SELECT Vendor, COUNT(*) AS num_vulnerabilities, RANK() OVER (ORDER BY COUNT(*) DESC) AS vendor_rank FROM CVE c  GROUP BY Vendor ORDER BY vendor_rank;"
 
 # %% [markdown]
-# Which Vedors have the Highest CVE counts in the Dataset?
+# Which Vendors have the most reported vulnerabilities in the Dataset?
 
 # %%
 #Storing to DF
